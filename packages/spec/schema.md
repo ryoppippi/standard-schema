@@ -143,6 +143,7 @@ These are the libraries that have already implemented the Standard Schema interf
 | [Evolu](https://github.com/evoluhq/evolu)                                          | v6.0.1+    | [PR](https://github.com/evoluhq/evolu/pull/605)                                                            |
 | [zeed](https://github.com/holtwick/zeed)                                           | v1.1.0+    | [Commit](https://github.com/holtwick/zeed/commit/05fb980df7ed0722f45a417bad8f1560195c7e1b)                 |
 | [GraphQL Standard Schema](https://github.com/apollographql/graphql-standard-schema)| v0.1.0+    | from the start |
+| [VineJS](https://github.com/vinejs/vine) | v4.0.0+    | [Commit](https://github.com/vinejs/vine/commit/768beed3a6b0230b1fb1f340615c8b880c98515a) |
 
 ## What tools / frameworks accept spec-compliant schemas?
 
