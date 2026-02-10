@@ -163,6 +163,7 @@ The answer to this question is a little more nuanced than with regular _Standard
 | [Zod Mini](https://zod.dev)    | v4.2+      | [PR](https://github.com/colinhacks/zod/pull/5477)      | via `z.toJSONSchema()`                                                    | [#](#zod-mini) |
 | [GraphQL Standard Schema](https://github.com/apollographql/graphql-standard-schema) | v0.2.0+    | [PR](https://github.com/apollographql/graphql-standard-schema/pull/8) | | [#](#graphql-standard-schema) |
 | [stnl](https://github.com/re-utils/stnl) | v2.1+ | [Commit](https://github.com/re-utils/stnl/commit/3faa7126b15c69e668e242e3bf93ea7fa9c25772) | via `toStandardJSONSchema.v1()` | [#](#stnl) |
+| [VineJS](https://github.com/vinejs/vine) | v4.3.0+ | [PR](https://github.com/vinejs/vine/pull/139) | via `validator['~standard'].jsonSchema.input()`
 
 ## Usage
 
